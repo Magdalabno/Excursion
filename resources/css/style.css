@@ -37,9 +37,21 @@ a {
 p {
     color: gray;
     font-size: 1.3rem;
-    padding: 1rem;
+    padding: 1.3rem;
 }
 img {
     width: 100%;
     margin: 0 auto;
+}
+.video {
+    margin-top: 1.5rem;
+}
+.camp {
+    max-width: 900px;
+    height: auto;
+}
+.phone {
+    margin-top: 1.3rem;
+    height: 108px;
+    width: auto;
 }
