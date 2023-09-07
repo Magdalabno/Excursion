@@ -40,7 +40,7 @@ p {
     padding: 1.3rem;
 }
 img {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
 }
 .video {
@@ -54,4 +54,15 @@ img {
     margin-top: 1.3rem;
     height: 108px;
     width: auto;
+}
+
+/* responsiveness */
+@media only screen and (max-width: 850px) {
+    h1 {
+        font-size: 2.625rem;
+    }
+    h2 {
+        font-size: 2.25rem;
+    }
+
 }
